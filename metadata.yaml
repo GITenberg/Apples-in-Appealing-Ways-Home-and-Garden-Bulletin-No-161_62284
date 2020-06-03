@@ -1,5 +1,8 @@
 _repo: Apples-in-Appealing-Ways-Home-and-Garden-Bulletin-No-161_62284
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62284-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62284#Apples-in-Appealing-Ways-Home-and-Garden-Bulletin-No-161
 gutenberg_issued: '2020-05-30'
 gutenberg_type: Text
 identifiers:
